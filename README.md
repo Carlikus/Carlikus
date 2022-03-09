@@ -1,5 +1,5 @@
-👋 Hi, I’m Carl, a noob web-dev interested in building quality apps and writing the cleanest code possible.  
-I’m currently learning front and backend web development. Once I have that down I'll be focusing on Python and ooking to collaborate on projects to learn the tricks of the trade and hopefully make some quality contacts.
+👋 Hi, I’m Carl, a noob dev interested in building quality apps and writing the cleanest code possible.  
+I’ve been dabbling with web dev stuff but I'm focusing on Python now and looking to collaborate on projects to learn the tricks of the trade and hopefully make some quality contacts.
 Contact me if you like the coding in my projects or just want to show me some tips and tricks of the trade.
 
 <!---
